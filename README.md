@@ -21,8 +21,8 @@ Compare model performance using standard evaluation metrics
 Identify the best-performing model for early heart disease detection
 
 📂 Repository Structure
-├── Group_9_Cse437_Project.ipynb   # Complete implementation
-├── README.md                     # Project documentation
+├── Group_9_Cse437_Project.ipynb   
+├── README.md                     
 
 📊 Dataset Description
 
