@@ -1,4 +1,5 @@
 Early Detection of Heart Disease Using Machine Learning
+
 📄 Abstract
 
 Cardiovascular diseases remain one of the leading causes of mortality worldwide. Early detection plays a critical role in reducing fatal outcomes and improving patient care. This project investigates the effectiveness of multiple machine learning classification models for predicting heart disease using clinical and demographic data. Several supervised learning algorithms were trained, evaluated, and compared to identify the most accurate and reliable predictive model.
